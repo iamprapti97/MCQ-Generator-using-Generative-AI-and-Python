@@ -10,7 +10,7 @@ NOTE: Please use your own API Key. Donot share your API key with anyone.
 SETUP: 
 Clone the repository in your system.
 Run app.py and click on the server URL given in the terminal.
-Upload documnent and number of MCQs needed.
+Upload document and number of MCQs needed.
 
 Thank you for checking out my project. Hope you found it useful !!
 Have a great day !!
